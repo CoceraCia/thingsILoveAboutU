@@ -1,4 +1,4 @@
-# Things I Love About U ❤️
+# Sanotes
 
 ![Swift](https://img.shields.io/badge/Swift-5.0-orange?logo=swift)
 ![Firebase](https://img.shields.io/badge/Firebase-Cloud-yellow?logo=firebase)
