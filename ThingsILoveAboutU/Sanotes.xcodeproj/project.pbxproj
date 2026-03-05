@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7FC4749D2F33987D003ED643 /* ThingsILoveAboutU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ThingsILoveAboutU.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7FC4749D2F33987D003ED643 /* Sanotes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sanotes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -51,7 +51,7 @@
 		7FC4749E2F33987D003ED643 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7FC4749D2F33987D003ED643 /* ThingsILoveAboutU.app */,
+				7FC4749D2F33987D003ED643 /* Sanotes.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -82,7 +82,7 @@
 				7F478AF82F421D8800CA54DC /* FirebaseStorage */,
 			);
 			productName = ThingsILoveAboutU;
-			productReference = 7FC4749D2F33987D003ED643 /* ThingsILoveAboutU.app */;
+			productReference = 7FC4749D2F33987D003ED643 /* Sanotes.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -201,6 +201,7 @@
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = Sanotes;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -258,6 +259,7 @@
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = Sanotes;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				VALIDATE_PRODUCT = YES;
@@ -284,8 +286,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.coceracia.ThingsILoveAboutU;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.coceracia.Sanotes;
+				PRODUCT_NAME = Sanotes;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
@@ -316,8 +318,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.coceracia.ThingsILoveAboutU;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.coceracia.Sanotes;
+				PRODUCT_NAME = Sanotes;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
