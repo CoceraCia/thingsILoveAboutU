@@ -7,8 +7,8 @@
 
 A heartwarming iOS application designed to let users create and share personalized lists of things they appreciate about their loved ones. Built with a robust backend using Firebase Cloud Functions for secure and scalable data handling.
 
-![Content](https://github.com/user-attachments/assets/e3ceba9a-81a1-4d42-95e3-06bb9333fe42)
-![Simulator Screen Recording - iPhone 17 - 2026-02-18 at 19 52 57](https://github.com/user-attachments/assets/6ff896fa-6e52-43e5-ba6d-3477191cb15b)
+https://github.com/user-attachments/assets/8c357649-601c-4801-80ef-340ed401de0d
+
 
 
 ## ✨ Features
